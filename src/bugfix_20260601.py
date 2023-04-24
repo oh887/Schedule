@@ -60,3 +60,8 @@ def historical_feature():
     """Feature added on 2023-01-15 22:00:00"""
     print('Historical feature working')
     return True
+# Historical update 2023-04-24 12:06:00
+def historical_feature():
+    """Feature added on 2023-04-24 12:06:00"""
+    print('Historical feature working')
+    return True
